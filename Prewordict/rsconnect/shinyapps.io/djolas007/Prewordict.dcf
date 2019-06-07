@@ -1,0 +1,12 @@
+name: Prewordict
+title: Prewordict
+username:
+account: djolas007
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 970557
+bundleId: 2137912
+url: https://djolas007.shinyapps.io/Prewordict/
+when: 1559917292.30219
+asMultiple: FALSE
+asStatic: FALSE
